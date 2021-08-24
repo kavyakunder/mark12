@@ -4,7 +4,7 @@ const submitBtn=document.querySelector("#submit-btn")
 const output2=document.querySelector("#output2");
 
 
-const correctAns=["90°","right angled"];
+const correctAns=["90°","right angled","centroid","concurrent","triangle","one-right-angle"];
 
 
 function calculateScore()
